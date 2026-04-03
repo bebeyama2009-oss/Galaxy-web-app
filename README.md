@@ -177,4 +177,4 @@ That's it. One file. Open it in any browser.
 Built by Mariama for **Galaxy**, because some people deserve a whole universe 🐰✨
 
 
-© 2026 Mariama — Personal project, not for redistribution
+© 2026 Mariama Personal project, not for redistribution
