@@ -10,7 +10,7 @@
 
 ## 📋 Project Overview
 
-**Galaxy's World** is a custom-built progressive web app that functions as a personal universe for Galaxy — a space where she can find letters from me, play games, track her mood, manage her finances in London, watch Chiikawa episodes without leaving the app, and receive a full birthday surprise at exactly midnight on April 2nd.
+**Galaxy's World** is a custom-built progressive web app that functions as a personal universe for Galaxy a space where she can find letters from me, play games, track her mood, manage her finances in London, watch Chiikawa episodes without leaving the app, and receive a full birthday surprise at exactly midnight on April 2nd.
 
 The entire application is contained in a **single HTML file** with no backend, no framework, no build step. It runs entirely in the browser and saves all data locally using the Web Storage API.
 
