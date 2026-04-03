@@ -3,7 +3,7 @@ Voici le texte complet pour ton README :
 
 ---
 
-# 🌌 Galaxy's World — Interactive Birthday Web App
+# 🌌 Galaxy's World Interactive Birthday Web App
 
 > A fully personalised, single-file interactive web application built as a birthday gift for my best friend Galaxy's 18th birthday. Every pixel, every word, every feature was made with love. 💕
 
@@ -31,10 +31,10 @@ The entire application is contained in a **single HTML file** with no backend, n
 - Live **London GMT clock** updating every second
 - Friendship day counter (since October 2024)
 - Daily Wisdom quotes & affirmations with tap-to-refresh
-- **London Idea of the Day** — 15 curated London activity suggestions
-- **"Secret Note from Mariama"** — 6 deeply personal messages with prev/next navigation
+- **London Idea of the Day**  15 curated London activity suggestions
+- **"Secret Note from Mariama"**  6 deeply personal messages with prev/next navigation
 - Kawaii mood picker (5 moods logged to history)
-- Chiikawa episodes **embedded inline with YouTube IFrame** — watch without leaving the app
+- Chiikawa episodes **embedded inline with YouTube IFrame**  watch without leaving the app
 
 ### 💌 Letters
 - 12 unlockable letters from Mariama, revealed one by one
