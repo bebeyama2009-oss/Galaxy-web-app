@@ -55,8 +55,8 @@ All games award ⭐ stars and feed into the XP/levelling system.
 - Vinyl record player UI with 8-track playlist
 - **Ambient sound engine** built with Web Audio API (rain, café, space, forest, fireplace, waves, white noise) — no audio files used
 - Girls' Night Generator (50+ combinations)
-- **Spotify Mood Playlists** — Good Vibes, Lo-Fi, Girly Pop, UK Hits London
-- **Colour of My Mood** — 10 colour swatches each with a poetic meaning
+- **Spotify Mood Playlists** Good Vibes, Lo-Fi, Girly Pop, UK Hits London
+- **Colour of My Mood** 10 colour swatches each with a poetic meaning
 
 ### 🔮 Mystic
 - Tarot card picker (22 Major Arcana)
