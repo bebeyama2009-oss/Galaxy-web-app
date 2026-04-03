@@ -1,5 +1,4 @@
 # Galaxy-web-app
-Voici le texte complet pour ton README :
 
 ---
 
